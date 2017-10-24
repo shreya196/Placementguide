@@ -1,2 +1,2 @@
 # Placementguide
-An easy platform to facilitates the job recruitment process and for students.
+An easy and  platform to facilitates the job recruitment process and for students.
